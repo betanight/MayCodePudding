@@ -5,7 +5,6 @@ venv/
 
 # Datasets and scraped data
 datasets/
-scraped_data/
 
 # Python cache and compiled files
 __pycache__/
